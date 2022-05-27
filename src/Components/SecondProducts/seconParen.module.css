@@ -1,0 +1,34 @@
+
+.center{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 98px;
+    width: 1152px;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttonMore{
+    width: 200px;
+    height: 48px;
+    border: 1px solid #FF583E;
+    box-sizing: border-box;
+    border-radius: 40px;
+    background-color: white;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 147.19%;
+    text-transform: uppercase;
+    color: #FF583E;
+}
+
+
+.buttonMore:hover{
+    background-color: #FF583E;
+    color: white;
+}

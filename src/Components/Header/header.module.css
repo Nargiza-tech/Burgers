@@ -1,0 +1,50 @@
+.containerHeaders{
+    display: flex;
+    margin-left: 100px;
+}
+
+.width{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header{
+    margin-top: 24px;
+    display: flex;
+    align-items: center;
+
+}
+
+.mr{
+    margin-right: 12px;
+}
+
+.header ul li{
+    font-family: 'Roboto', serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: inline-block;
+    margin-right: 58px;
+}
+
+
+.ul a{
+    color: black;
+    text-decoration: none;
+}
+
+.header ul li:hover{
+    color: #FF583E;
+    cursor: pointer;
+}
+
+.ul a:hover{
+    color: #FF583E;
+    cursor: pointer;
+}
+
+.logoImg{
+    margin-right: 64px;
+}

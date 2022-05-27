@@ -1,0 +1,122 @@
+.center{
+    margin-top: 44px;
+    display: flex;
+    width: 1152px;
+    font-family: 'Roboto', Serif;
+
+
+
+}
+
+
+.productsPrent{
+    position: relative;
+    width: 264px;
+    height: 392px;
+    margin-bottom: 32px;
+
+
+}
+
+
+.productImg{
+    position: absolute;
+    width: 200px;
+    height: 142px;
+    left: 31px;
+    bottom: 300px;
+
+}
+
+.description{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    color: #FFFFFF;
+    width: 264px;
+    height: 350px;
+    background: #2B4241;
+    border-radius: 40px;
+}
+
+
+
+
+
+.title{
+    margin-top: 114px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+
+.desc{
+    margin: 0;
+    font-weight: 400;
+    width: 231px;
+    height: 78px;
+    font-size: 14px;
+    line-height: 16px;
+
+
+}
+
+.df{
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+
+
+}
+.df span{
+    margin-top: 5px;
+    margin-right: 10px;
+    text-align: center;
+
+}
+
+.minus{
+    margin-bottom: 7px;
+    margin-right: 10px;
+    border: none;
+    background: #2B4241;
+    color:  #FF583E;
+    font-size: 22px;
+    cursor: pointer;
+
+
+}
+
+.plus{
+    border: none;
+    color:  #FF583E;
+    border: none;
+    background: #2B4241;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
+
+.btn{
+    position: absolute;
+    width: 200px;
+    height: 48px;
+    bottom: 40px;
+    border: none;
+    background: #FF583E;
+    border-radius: 40px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 147.19%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.mt{
+    margin: 0;
+}

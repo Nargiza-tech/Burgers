@@ -1,0 +1,154 @@
+.contactsMain{
+    padding: 30px;
+   /*margin: 0 auto;*/
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.contacts{
+    margin-top: 90px;
+    display: flex;
+}
+
+.contactDetails{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 350px;
+    flex-direction: column;
+}
+
+.contactDetails img{
+    padding-right: 10px;
+}
+
+.imgWidth{
+    width: 75px;
+    height: 70px;
+}
+
+
+
+
+.contactsMain h2{
+    font-size: 22px;
+}
+
+.contactsMain h4{
+    font-size: 17px;
+}
+
+.contactsMain p{
+    font-size: 12px;
+    width: 450px;
+}
+
+.contactsText{
+    width: 500px;
+    line-height: 20px;
+}
+
+.contactDetails p{
+    font-size: 16px!important;
+}
+.lineVertical{
+    margin-top: 30px;
+
+}
+
+.lineVertical img{
+    height: 490px;
+}
+
+.map{
+
+    width: 600px;
+}
+
+.map img{
+    width: 400px;
+    padding-bottom: 120px;
+}
+
+/* ЖУРНАЛ ЖАЛОБ */
+.complaintsAndFeedbacks{
+    margin-top: 70px;
+}
+
+.complaintsAndFeedbacks h2{
+    margin-top: 70px;
+}
+
+.complainantsInformation{
+    display: flex;
+}
+
+
+.hoverEffect:hover{
+    color:#FF583E;
+}
+
+.complaintsAndFeedbacks input{
+    padding: 10px;
+    width: 455px;
+    margin-right: 40px;
+    outline: none;
+    border: none;
+    margin-bottom: 30px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.complaintsAndFeedbacks input:hover{
+    border-bottom: 3px solid #FF583E;
+    cursor: pointer;
+}
+
+.complaintsAndFeedbacks input:focus{
+    border: 3px solid #FF583E;
+    font-size: 15px;
+    border-radius: 20px;
+}
+
+.complaintsAndFeedbacks h2{
+    color:#FF583E;
+    font-size: 25px;
+}
+
+.complaintsAndFeedbacks p{
+    color: #254F4C;
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.complaintsAndFeedbacks h6{
+    font-size: 15px;
+}
+
+.complaints {
+    width: 971px!important;
+}
+
+.complaintsAndFeedbacks button{
+    margin-top: 20px;
+    background-color:#FF583E;
+    border: none;
+    color: white;
+    padding: 10px 100px;
+    border-radius: 30px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.complaintsAndFeedbacks button:hover{
+    cursor: pointer;
+}
+
+.button{
+    display: flex;
+    justify-content: end;
+    width: 994px;
+}

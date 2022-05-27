@@ -1,0 +1,74 @@
+.delivery{
+    display: flex;
+    align-items: center;
+    margin-left: 95px;
+    font-family: 'Roboto';
+
+
+}
+
+
+.h1{
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 29px;
+    color: #254F4C;
+    margin-left: 115px;
+}
+
+.containerServis{
+    display: flex;
+    align-items: center;
+
+
+
+}
+
+
+.dilveryTitle{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #254F4C;
+}
+
+
+.dilveryDesc{
+    width: 256px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #1D3130;
+}
+
+.flex{
+    display: flex;
+    width: 1120px;
+    justify-content: space-between;
+    /*align-items: center;*/
+    /*margin-left: 200px;*/
+    margin-top: 32px;
+}
+
+
+/*.text{*/
+/*    margin-left: 125px;*/
+/*}*/
+
+
+/*.ml{*/
+/*    margin-left: 119px;*/
+/*}*/
+
+.width{
+    width: 88px;
+    height: 88px;
+}
+
+.col{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}

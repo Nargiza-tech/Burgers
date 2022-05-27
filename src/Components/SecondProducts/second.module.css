@@ -1,0 +1,117 @@
+/*.container{*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*}*/
+
+.products{
+    margin-top: 44px;
+    height: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.productsPrent{
+    position: relative;
+    width: 264px;
+    height: 392px;
+    margin-bottom: 32px;
+
+
+}
+
+
+
+
+.productImg{
+    position: absolute;
+    width: 200px;
+    height: 142px;
+    left: 31px;
+    bottom: 300px;
+
+}
+
+.description{
+    font-family: 'Roboto', Serif;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    width: 264px;
+    height: 348px;
+    background: #FFFFFF;
+    color: #254F4C;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+}
+
+
+
+
+
+.title{
+    margin-top: 114px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+}
+.mt{
+    margin:0;
+}
+
+.desc{
+    margin: 0;
+    color: #000000;
+    font-weight: 400;
+    width: 231px;
+    height: 88px;
+    font-size: 14px;
+    line-height: 16px;
+
+
+}
+
+.df{
+
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+
+}
+.df span{
+    margin-top: 5px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.minus{
+    margin-bottom: 7px;
+    margin-right: 10px;
+}
+
+
+
+
+
+.btn {
+    position: absolute;
+    width: 200px;
+    height: 48px;
+    left: 35px;
+    bottom: 40px;
+    border: none;
+    background: #254F4C;
+    border-radius: 40px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 147.19%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+

@@ -1,0 +1,23 @@
+.table>tbody>tr>td{
+    width: 55px;
+    height: 35px;
+    border: 2px solid #2B4241;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    background-color: white;
+    padding: 5px;
+}
+.table{
+    border: 2px solid #FF583E;
+}
+.row>td{
+    font-weight: 500;
+    color: #FF583E;
+    text-transform: uppercase;
+}
+.name {
+    width: 200px!important;
+}
+.result {
+    width: 130px!important;
+}

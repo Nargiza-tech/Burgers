@@ -1,0 +1,42 @@
+/*.center{*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*    flex-direction: column;*/
+/*}*/
+
+
+.menuHeader{
+    width: 1152px;
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto', serif;
+    margin-left: 120px;
+
+
+
+}
+
+.menuHeader h1{
+    margin-right: 164px;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 29px;
+    color: #254F4C;
+}
+
+.menuHeader ul li{
+    display: inline-block;
+    font-weight: 400;
+    margin-right: 30px;
+    font-size: 16px;
+    line-height: 19px;
+    align-self: center;
+    color: #1D3130;
+}
+
+
+.menuHeader ul li:hover{
+    text-decoration-line: underline;
+    color: #FF583E;
+}

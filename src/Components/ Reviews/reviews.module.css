@@ -1,0 +1,84 @@
+
+
+
+
+.userImg{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    margin-bottom: 8px;
+}
+
+.pen{
+    width: 10px;
+}
+
+.reviewsBlock h1{
+    margin-left: 115px;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 29px;
+    color: #254F4C;
+}
+
+.reviewsCenter{
+    /*display: flex;*/
+    /*align-items: center;*/
+
+    margin-left: 95px;
+    margin-top: 49px;
+}
+
+
+.reviews {
+   position: relative;
+    margin-left: -26px;
+
+}
+
+.editImg{
+   position: absolute;
+    right: 60px;
+    top: 95px;
+}
+
+.reviewsChildren{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    top: 24px;
+    left: 16px;
+
+}
+
+.bacImg{
+    margin: 0;
+    width: 260px;
+}
+
+.reviewsChildren_text{
+    max-width: 216px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #061817;
+}
+.feedBack{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #061817;
+}
+
+.data{
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #3B7976;
+
+}

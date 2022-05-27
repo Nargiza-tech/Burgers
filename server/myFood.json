@@ -1,0 +1,275 @@
+{
+  "burgers": [
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4KqAVvX3-7q31W_Sh2ggXRyQ8XICFn_nmQw&usqp=CAU",
+      "title": "бургер",
+      "desc": "Булка, котлета,сыр, соленый  огурец, лук, помидор, салат  айсберг, соус  чесночный, соус  гриль, кетчуп, майонез",
+      "price": "250"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4KqAVvX3-7q31W_Sh2ggXRyQ8XICFn_nmQw&usqp=CAU",
+      "title": "Чизбургер",
+      "desc": "Булка, котлета,сыр, соленый  огурец, лук, помидор, салат  айсберг, соус  чесночный, соус  гриль, кетчуп, майонез",
+      "price": "250",
+      "id": 4
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4KqAVvX3-7q31W_Sh2ggXRyQ8XICFn_nmQw&usqp=CAU",
+      "title": "Чизбургер",
+      "desc": "Булка, котлета,сыр, соленый  огурец, лук, помидор, салат  айсберг, соус  чесночный, соус  гриль, кетчуп, майонез",
+      "price": "250",
+      "id": 5
+    }
+  ],
+  "pizza": [
+    {
+      "id": 6,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6JoKJEnr2cbklWNK2KpXsuT3_tg062gxeUg&usqp=CAU",
+      "title": "Чизбургер",
+      "desc": "Пепперони из цыпленка, увеличенная порция моцареллы, томаты, томатный соус",
+      "price": "220"
+    },
+    {
+      "id": 7,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuo_2a5ucoDrE0jEjfbhCEw7UOnFLhIjck_w&usqp=CAU",
+      "title": "Чизбургер",
+      "desc": "Соус песто, соус альфредо, цыплёнок, кубики брынзы, моцарелла, томаты",
+      "price": "250"
+    },
+    {
+      "id": 8,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuo_2a5ucoDrE0jEjfbhCEw7UOnFLhIjck_w&usqp=CAU",
+      "title": "Чизбургер",
+      "desc": "Соус песто, соус альфредо, цыплёнок, кубики брынзы, моцарелла, томаты",
+      "price": "250"
+    },
+    {
+      "id": 9,
+      "img": "data:image/jpeg;base64,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",
+      "title": "Чибо сано",
+      "desc": "клаасные пиццы",
+      "price": "220"
+    },
+    {
+      "id": 10,
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/a5fbe87430b943b7833e632e94807355_292x292.jpeg",
+      "title": "Азиатская",
+      "desc": "Моцарелла, сладкий перец, томаты, красный лук, фарш из говядины, сушеный перец чили, томатный соус",
+      "price": "599"
+    },
+    {
+      "id": 11,
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/e2393e247dc64ecbbf23c82243c0a399_292x292.jpeg",
+      "title": "Сырная",
+      "desc": "Увеличенная порция моцареллы, сыры чеддер и пармезан, соус альфредо",
+      "price": "245"
+    },
+    {
+      "id": 12,
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/9cf62eab14b64d6a8ce0a9f5710f4f76_292x292.jpeg",
+      "title": "Песто",
+      "desc": "Соус песто, соус альфредо, цыплёнок, кубики брынзы, моцарелла, томаты",
+      "price": "270"
+    },
+    {
+      "id": 13,
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/9f321e70a5e148319d5451f557d7004d_292x292.jpeg",
+      "title": "Фикси-пицца ",
+      "desc": "Ветчина, картофель из печи, моцарелла, соус альфредо",
+      "price": "395"
+    }
+  ],
+  "sushi": [
+    {
+      "id": 1,
+      "img": "https://nambafood.kg/dish_image/64887.png",
+      "title": "Sushi",
+      "desc": "Булка, котлета,сыр, соленый огурец, лук, помидор, салат айсберг, соус чесночный, соус гриль, кетчуп, майонез",
+      "price": "300"
+    },
+    {
+      "id": 2,
+      "img": "https://nambafood.kg/dish_image/64887.png",
+      "title": "Sushi2",
+      "desc": "Пепперони из цыпленка, увеличенная порция моцареллы, томаты, томатный соус",
+      "price": "450"
+    },
+    {
+      "id": 3,
+      "img": "https://nambafood.kg/dish_image/64887.png",
+      "title": "Sushi3",
+      "desc": "Соус песто, соус альфредо, цыплёнок, кубики брынзы, моцарелла, томаты",
+      "price": "400"
+    },
+    {
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5QaPauHTUJ1soUHQk3bzOgIo3fXF2vkUMCg&usqp=CAU",
+      "title": "Sushi4",
+      "desc": "Моцарелла, сыры чеддер и пармезан, сыр блю чиз, соус альфредо",
+      "price": "300"
+    },
+    {
+      "id": 5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFgDXXsqC7UuN61f7j1Czl2Am9ZE34XNqtg&usqp=CAU",
+      "title": "Сочные суши",
+      "desc": "классные суши",
+      "price": "180"
+    }
+  ],
+  "rolls": [
+    {
+      "id": 1,
+      "img": "https://nambafood.kg/image_by_id/7291",
+      "title": "Чука маки ролл",
+      "desc": "Булка, котлета,сыр, соленый огурец, лук, помидор, салат айсберг, соус чесночный, соус гриль, кетчуп, майонез",
+      "price": "180"
+    },
+    {
+      "id": 2,
+      "img": "https://nambafood.kg/image_by_id/7291",
+      "title": "Филадельфия ролл",
+      "desc": "Пепперони из цыпленка, увеличенная порция моцареллы, томаты, томатный соус",
+      "price": "280"
+    },
+    {
+      "id": 3,
+      "img": "https://nambafood.kg/image_by_id/7291",
+      "title": "Мисато ролл",
+      "desc": "Соус песто, соус альфредо, цыплёнок, кубики брынзы, моцарелла, томаты",
+      "price": "180"
+    },
+    {
+      "id": 4,
+      "img": "https://nambafood.kg/image_by_id/7291",
+      "title": "Ролл с лососем",
+      "desc": "Моцарелла, сыры чеддер и пармезан, сыр блю чиз, соус альфредо",
+      "price": "380"
+    }
+  ],
+  "salads": [
+    {
+      "id": 1,
+      "img": "https://nambafood.kg/image_by_id/64843",
+      "title": "Греческий салат",
+      "desc": "Листья салата со свежими овощами, брынзой, заправленные фирменным"
+    },
+    {
+      "id": 2,
+      "img": "https://nambafood.kg/image_by_id/104683",
+      "title": "Салат с тофу",
+      "desc": "заправленный кисло-сладким соусом"
+    },
+    {
+      "id": 3,
+      "img": "https://nambafood.kg/image_by_id/64910",
+      "title": "Салат «Восточный»",
+      "desc": "Соус песто, соус альфредо, цыплёнок, кубики брынзы, моцарелла, томаты"
+    },
+    {
+      "id": 4,
+      "img": "https://nambafood.kg/image_by_id/104678",
+      "title": "Салат с руколлой и мандарином",
+      "desc": "Со стручковой фасолью, помидорами черри, редисом и куриным яйцом."
+    }
+  ],
+  "desserts": [
+    {
+      "id": 1,
+      "img": "https://site.kulikov.com/upload/iblock/b40/ue0qypypykqg0atuauk0anajy4030akp/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%20%D0%B2%20%D1%81%D1%82%D0%B0%D0%BA%D0%B0%D0%BD%D1%87%D0%B8%D0%BA%D0%B5%20Cream%20klubnika%20%281%29.png",
+      "title": "Cream-Klubnika",
+      "desc": "Нежное сочетание легкого творожно-сырного мусса и взбитых сливок, прослоенных клубничным джемом и шоколадного декора."
+    },
+    {
+      "id": 2,
+      "img": "https://site.kulikov.com/upload/iblock/810/rsbrrozv7nhpsprwu6d5p53n2xp1deuu/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%20%D0%B2%20%D1%81%D1%82%D0%B0%D0%BA%D0%B0%D0%BD%D1%87%D0%B8%D0%BA%D0%B5%20Cream%20vishnya%20%281%29.png",
+      "title": "PRIMAVERA",
+      "desc": "заправленный кисло-сладким соусом"
+    },
+    {
+      "id": 3,
+      "img": "https://site.kulikov.com/upload/iblock/74f/54khaot81iczj61ph8grc70gsstcd7tt/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%20%D0%B2%20%D1%81%D1%82%D0%B0%D0%BA%D0%B0%D0%BD%D1%87%D0%B8%D0%BA%D0%B5%20primavera.png",
+      "title": "PANNA COTTA",
+      "desc": "Итальянский десерт на основе легкого сливочного мусса с французским печеньем «Streusel» и декором из темного шоколада."
+    },
+    {
+      "id": 4,
+      "img": "https://site.kulikov.com/upload/iblock/3b9/9s38bulfkahli08c6tj8b0hq475e16fz/%D0%94%D0%B5%D1%81%D0%B5%D1%80%D1%82%20%D0%B2%20%D1%81%D1%82%D0%B0%D0%BA%D0%B0%D0%BD%D1%87%D0%B8%D0%BA%D0%B5%20%D0%A2%D1%80%D0%B8%20%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%D0%B0%20%281%29.png",
+      "title": "PRIMAVERA",
+      "desc": "Воздушный творожный мусс с добавлением сока лимона и прослойкой из свежих ягод малины, залит натуральным клубничным джемом и украшен декором из белого шоколада."
+    }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPvN8Q-ApG7zz9Xg1BA009h6KpCPNTGq1HWg&usqp=CAU",
+      "title": "Холодные напитки",
+      "desc": "Листья салата со свежими овощами, брынзой, заправленные фирменным"
+    },
+    {
+      "id": 2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAasgghD6YLWiL8Gj42Soe_22B9vt_EsrNiA&usqp=CAU",
+      "title": "Холодные напитки",
+      "desc": "заправленный кисло-сладким соусом"
+    },
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLvxjMhVYdVDayKm3F5joOv-Bx99tP_2a5GQ&usqp=CAU",
+      "title": "Холодные напитки",
+      "desc": "Соус песто, соус альфредо, цыплёнок, кубики брынзы, моцарелла, томаты"
+    },
+    {
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTl9oBLbfLq_vkubI1CM7ClagQZn-fHfbtw&usqp=CAU",
+      "title": "Холодные напитки",
+      "desc": "Со стручковой фасолью, помидорами черри, редисом и куриным яйцом."
+    }
+  ],
+  "comments": [
+    {
+      "name": "Наргиза",
+      "surname": "Сапарбаева",
+      "number": "0704113336",
+      "email": "Saparbaeva.nargiza01@gmail.com",
+      "feedback": "jk;jsv; djncjkndfj vfgfbh hgygyj jyjuju juyjuyj yjhjyu",
+      "date": "2022 -  0 3 -  0 20    18:11",
+      "id": 4
+    },
+    {
+      "name": "Улан",
+      "surname": "Жумабаев",
+      "number": "0500000000",
+      "email": "Ulan96@gmail.com",
+      "feedback": "Очен хороший сайт. Можно заказать самые вкусные пищи)",
+      "date": "2022 -  0 3 -  0 23    2:59",
+      "id": 5
+    },
+    {
+      "name": "Наргиза2s",
+      "surname": "Сапарбаева",
+      "number": "0704113336",
+      "email": "Saparbaeva.nargiza01@gmail.com",
+      "feedback": "jk;jsv; djncjkndfj vfgfbh hgygyj jyjuju juyjuyj yjhjyu",
+      "date": "2022 -  0 3 -  0 20    18:11",
+      "id": 8
+    },
+    {
+      "name": "Наргиза1",
+      "surname": "Сапарбаева",
+      "number": "0704113336",
+      "email": "Saparbaeva.nargiza01@gmail.com",
+      "feedback": "jk;jsv; djncjkndfj vfgfbh hgygyj jyjuju juyjuyj yjhjyu",
+      "date": "2022 -  0 3 -  0 20    18:11",
+      "id": 9
+    },
+    {
+      "name": "ferfref",
+      "surname": "dscdc",
+      "number": "4344",
+      "email": "dscsdc",
+      "feedback": "vcxxxxxxxxxxxxxccccccccccccc efder edcefre fefde",
+      "date": "2022 -  0 3 -  0 23    3:10",
+      "id": 10
+    }
+  ]
+}
